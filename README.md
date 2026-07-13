@@ -1,7 +1,3 @@
-yaml
----
-theme: jekyll-theme-cayman
----
 # C. Newell | Learning Systems & Data Operations Portfolio
 Smyrna, GA | [linkedin.com/in/chloenewell]
 
