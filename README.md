@@ -1,6 +1,4 @@
-# Chloe Newell 
-## Learning Systems & Data Operations Portfolio
-Smyrna, GA | (linkedin.com/in/chloenewell)
+Smyrna, GA | [LinkedIn Profile](linkedin.com/in/chloenewell)
 
 Welcome to my professional portfolio. I specialize in combining 10+ years of educational program management with advanced data analytics (SQL, Python, Tableau) to build scalable, automated, and secure workflow systems.
 
